@@ -1,7 +1,7 @@
-import SimpleTodos from './components/SimpleTodos'
+import SimpleTodos from "./components/SimpleTodos";
 
-import './App.css'
+import "./App.css";
 
-const App = () => <SimpleTodos />
+const App = () => <SimpleTodos />;
 
-export default App
+export default App;
